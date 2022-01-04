@@ -1,0 +1,8 @@
+env:
+  prod: true
+
+mysql_db:
+  ip: 172.18.0.100
+  port: 3306
+  username: canal
+  password: canal
